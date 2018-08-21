@@ -42,6 +42,7 @@ int multiply(int x, int res[], int res_size)
     return res_size;
 }
 
+
 int main()
 {
 	int n;
